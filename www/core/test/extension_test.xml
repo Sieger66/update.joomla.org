@@ -5,15 +5,15 @@
 		<description>Joomla! 4.4 CMS</description>
 		<element>joomla</element>
 		<type>file</type>
-		<version>4.4.6-rc1</version>
-		<infourl title="Joomla 4.4.8-rc2 Release Candidate 1">https://github.com/joomla/joomla-cms/releases/tag/4.4.8-rc2</infourl>
+		<version>4.4.8-rc2</version>
+		<infourl title="Joomla 4.4.8-rc2 Release Candidate 2">https://github.com/joomla/joomla-cms/releases/tag/4.4.8-rc2</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/4.4.8-rc2/Joomla_4.4.8-rc2-Release_Candidate-Update_Package.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>28e1d4b01921025baeac36596f9d7a47cafcda3b9ee08ba835dd85d06859ec13</sha256>
+		<sha256>fae6c3a649dab77e130eca5a9f5e3d38c964950bd032a8f21121a8dd19d75532</sha256>
 		<sha384>0dd60c6806e8692c7a9063f43731465bf2cea14e7ec7019a50c64f40d5309bcca832f3cf0cbfb31fecbb200cef73dc3c</sha384>
 		<sha512>2ab94d73df69340bb1c571beeb9b057e5b05796d09cb321e3dc53ee2b659773001b21c2e0677c1b700c53430cc0e6209b8b029d797a551a2354e10481508bf7d</sha512>
 		<supported_databases mysql="5.6" mariadb="10.1" postgresql="11.0" />
@@ -27,15 +27,15 @@
 		<description>Joomla! 4.4 CMS</description>
 		<element>joomla</element>
 		<type>file</type>
-		<version>4.4.6-rc1</version>
-		<infourl title="Joomla 4.4.6-rc1 Release Candidate 1">https://github.com/joomla/joomla-cms/releases/tag/4.4.8-rc2</infourl>
+		<version>4.4.8-rc2</version>
+		<infourl title="Joomla 4.4.8-rc2 Release Candidate 2">https://github.com/joomla/joomla-cms/releases/tag/4.4.8-rc2</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/4.4.8-rc2/Joomla_4.4.8-rc2-Release_Candidate-Update_Package.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>28e1d4b01921025baeac36596f9d7a47cafcda3b9ee08ba835dd85d06859ec13</sha256>
+		<sha256>fae6c3a649dab77e130eca5a9f5e3d38c964950bd032a8f21121a8dd19d75532</sha256>
 		<sha384>0dd60c6806e8692c7a9063f43731465bf2cea14e7ec7019a50c64f40d5309bcca832f3cf0cbfb31fecbb200cef73dc3c</sha384>
 		<sha512>2ab94d73df69340bb1c571beeb9b057e5b05796d09cb321e3dc53ee2b659773001b21c2e0677c1b700c53430cc0e6209b8b029d797a551a2354e10481508bf7d</sha512>
 		<supported_databases mysql="5.6" mariadb="10.1" postgresql="11.0" />
